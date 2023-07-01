@@ -4,6 +4,8 @@ This repository contains a JavaScript file (`validations.js`) that provides func
 
 This JavaScript code provides a set of functions for validating DOM elements in a web form. It includes validations for fields such as name, email, dropdowns, checkboxes, and select options. The code also allows for displaying error messages on the screen and creating a JSON object of all the validated fields for further processing or debugging purposes
 
+(**Note:** This repository is currently in active development mode, with ongoing enhancements and improvements. Contributions are welcome. If you find any issues or have suggestions for improvements, please create an issue or submit a pull request.)
+
 ## Usage
 
 To use the validation functions, follow these steps:
