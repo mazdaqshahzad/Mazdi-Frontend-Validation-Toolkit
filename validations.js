@@ -139,6 +139,8 @@ function ValidateFields(className) {
             for (let i = 0; i < msgList.length; i++) {
                 _messages = _messages + msgList[i].Message + "\n";
             }
+
+            _messages = _messages +"\n\nNote: This messages are popped up from 'finally' block of 'ValidateFields' method in 'validations.js' file. You need to adjust the code in ;finally' section according to your requirments as current code to show popup messages are for demo purposes only."
             alert(_messages);
         }
     }
